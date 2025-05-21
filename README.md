@@ -25,14 +25,14 @@ https://github.com/domspizza/MS263_Final
 9. wetland.shx
 
 ### Dependencies:
-python 3.12
-numpy 2.2.2
-matplotlib 3.10.0
-pandas 2.2.3
-seaborn 0.13.2
-scipy 1.15.1
-xarray 2025.1.1
-cartopy 0.24.0
+python 3.12,
+numpy 2.2.2,
+matplotlib 3.10.0,
+pandas 2.2.3,
+seaborn 0.13.2,
+scipy 1.15.1,
+xarray 2025.1.1,
+cartopy 0.24.0,
 cmocean 4.0.3
 
 ### Running Analysis:
